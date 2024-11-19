@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Gaming PC Alpha",
+      "description": "High-performance gaming PC.",
+      "price": 1500,
+      "image": "/images/alpha.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PC Beta",
+      "description": "Powerful workstation for productivity.",
+      "price": 2000,
+      "image": "/images/beta.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PC Omega",
+      "description": "Compact and efficient PC.",
+      "price": 1200,
+      "image": "/images/gamma.jpg"
+    }
+  ]
+  
